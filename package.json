@@ -1,0 +1,24 @@
+{
+  "name": "sqlite-to-postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrButak/sqlite-to-postgres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrButak/sqlite-to-postgres/issues"
+  },
+  "homepage": "https://github.com/MrButak/sqlite-to-postgres#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.5.0",
+    "pg": "^8.7.3"
+  }
+}
